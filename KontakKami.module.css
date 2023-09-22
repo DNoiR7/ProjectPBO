@@ -1,0 +1,359 @@
+.icon,
+.kontak-kami-child {
+  position: absolute;
+  left: 0;
+  width: 1366px;
+}
+.icon {
+  top: 220px;
+  height: 829px;
+  object-fit: cover;
+}
+.kontak-kami-child {
+  top: 973px;
+  background-color: var(--color-darkslateblue-100);
+  height: 142px;
+}
+.ita2 {
+  color: var(--color-black);
+}
+.klinikita2 {
+  position: absolute;
+  top: 37px;
+  left: 114px;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-paytone-one);
+  text-align: left;
+  display: inline-block;
+  width: 278px;
+  height: 65px;
+  color: var(--color-white);
+}
+.kontak-kami-item {
+  position: absolute;
+  top: 180px;
+  left: 0;
+  width: 1366px;
+  height: 150px;
+  object-fit: cover;
+}
+.kontak-kami1 {
+  position: absolute;
+  top: 220px;
+  left: 538px;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  display: inline-block;
+  width: 290px;
+  height: 70px;
+}
+.location-icon,
+.vuesaxtwotonecall-icon,
+.vuesaxtwotoneprinter-icon {
+  position: absolute;
+  top: 469px;
+  left: 666px;
+  width: 47px;
+  height: 47px;
+}
+.location-icon,
+.vuesaxtwotoneprinter-icon {
+  left: 1144px;
+}
+.vuesaxtwotoneprinter-icon {
+  left: 132px;
+}
+.alamat,
+.div,
+.div1,
+.fax,
+.telp {
+  position: absolute;
+  top: 536px;
+  left: 123px;
+  display: inline-block;
+  width: 54px;
+  height: 39px;
+}
+.alamat,
+.div,
+.div1,
+.telp {
+  top: 535px;
+  left: 1140px;
+}
+.div,
+.div1,
+.telp {
+  top: 534px;
+  left: 659px;
+  width: 53px;
+  height: 40px;
+}
+.div,
+.div1 {
+  top: 575px;
+  left: 571px;
+  width: 227px;
+  height: 27px;
+}
+.div1 {
+  top: 574px;
+  left: 96px;
+  width: 109px;
+}
+.jl-h-gaim {
+  top: 575px;
+  left: 1010px;
+  width: 315px;
+  height: 55px;
+}
+.e-mail,
+.jl-h-gaim,
+.terima-kasih-atas {
+  position: absolute;
+  display: inline-block;
+}
+.terima-kasih-atas {
+  top: 382px;
+  left: 88px;
+  font-size: var(--font-size-xl);
+  text-align: left;
+  width: 1190px;
+  height: 50px;
+}
+.e-mail {
+  top: 780px;
+  left: 661px;
+  width: 50px;
+  height: 20px;
+}
+.vuesaxtwotonedirectbox-defau-icon {
+  position: absolute;
+  top: 717px;
+  left: 661px;
+  width: 47px;
+  height: 47px;
+}
+.adminknlinikitacom {
+  position: absolute;
+  top: 804px;
+  left: 606px;
+  display: inline-block;
+  width: 160px;
+  height: 20px;
+}
+.pose-6-icon,
+.pose-7-icon {
+  position: absolute;
+  top: 650px;
+  left: 89px;
+  width: 314px;
+  height: 314px;
+  object-fit: cover;
+}
+.pose-7-icon {
+  top: 623px;
+  left: 1004px;
+}
+.group-child7,
+.group-child8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue-200);
+  width: 1366px;
+  height: 180px;
+}
+.group-child8 {
+  background-color: var(--color-darkslateblue-100);
+  height: 128px;
+}
+.klinikita3,
+.klinikita4 {
+  position: absolute;
+  font-family: var(--font-paytone-one);
+  display: inline-block;
+}
+.klinikita3 {
+  text-decoration: none;
+  top: 37px;
+  left: 40px;
+  font-size: var(--font-size-29xl);
+  width: 278px;
+  height: 65px;
+  color: inherit;
+}
+.klinikita4 {
+  top: 1010px;
+  left: 597px;
+  font-size: var(--font-size-13xl);
+  width: 172px;
+  height: 34px;
+}
+.group-child9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-cornflowerblue);
+  box-shadow: 4px 4px 2px rgba(0, 0, 0, 0.25);
+  width: 205px;
+  height: 79px;
+}
+.daftar1 {
+  position: absolute;
+  top: 20px;
+  left: 12px;
+  display: inline-block;
+  width: 182px;
+  height: 33px;
+}
+.beranda2,
+.pelayanan3,
+.rectangle-parent6 {
+  text-decoration: none;
+  position: absolute;
+  color: inherit;
+}
+.rectangle-parent6 {
+  top: 25px;
+  left: 1137px;
+  width: 205px;
+  height: 79px;
+  text-align: center;
+}
+.beranda2,
+.pelayanan3 {
+  top: 0;
+  left: 0;
+}
+.pelayanan3 {
+  left: 138px;
+}
+.tentang-kami2 {
+  position: absolute;
+  top: 0;
+  left: 305px;
+}
+.kontak2,
+.material-symbolssearch1 {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.kontak2 {
+  cursor: pointer;
+  padding: 0;
+  top: 0;
+  left: 510px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.material-symbolssearch1 {
+  top: 3px;
+  left: 621px;
+  width: 29px;
+  height: 30px;
+  overflow: hidden;
+}
+.beranda-container,
+.masuk2 {
+  position: absolute;
+  top: 132px;
+  left: 681px;
+  width: 650px;
+  height: 36px;
+}
+.masuk2 {
+  text-decoration: none;
+  top: 42px;
+  left: 964px;
+  color: inherit;
+  text-align: center;
+  display: inline-block;
+  width: 140px;
+  height: 44px;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1366px;
+  height: 1044px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.kontak-kami-inner {
+  position: absolute;
+  top: 1084px;
+  left: 0;
+  background-color: var(--color-darkslateblue-200);
+  width: 1366px;
+  height: 82px;
+}
+.follow-kami-di1,
+.klinikita-2023-all1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 505px;
+  height: 38px;
+}
+.follow-kami-di1 {
+  width: 242px;
+  height: 31px;
+}
+.mdiinstagram-icon1,
+.rifacebook-fill-icon1,
+.tablerbrand-x-icon1 {
+  position: absolute;
+  top: 0;
+  left: 196px;
+  width: 31px;
+  height: 31px;
+  overflow: hidden;
+}
+.mdiinstagram-icon1,
+.rifacebook-fill-icon1 {
+  left: 233px;
+}
+.mdiinstagram-icon1 {
+  left: 270px;
+}
+.follow-kami-di-group {
+  position: absolute;
+  top: 3px;
+  left: 991px;
+  width: 301px;
+  height: 31px;
+}
+.klinikita-2023-all-right-res-parent {
+  position: absolute;
+  top: 1105px;
+  left: 40px;
+  width: 1292px;
+  height: 38px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
+.kontak-kami {
+  position: relative;
+  background-color: var(--color-lavender);
+  width: 100%;
+  height: 1166px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-droid-sans);
+}

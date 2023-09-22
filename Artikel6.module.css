@@ -1,0 +1,244 @@
+.group-child10,
+.group-child11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue-200);
+  width: 1366px;
+  height: 180px;
+}
+.group-child11 {
+  background-color: var(--color-darkslateblue-100);
+  height: 128px;
+}
+.ita5 {
+  color: var(--color-black);
+}
+.klinikita5 {
+  text-decoration: none;
+  position: absolute;
+  top: 39px;
+  left: 34px;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-paytone-one);
+  display: inline-block;
+  width: 278px;
+  height: 65px;
+  color: inherit;
+}
+.group-child12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-cornflowerblue);
+  box-shadow: 4px 4px 2px rgba(0, 0, 0, 0.25);
+  width: 205px;
+  height: 79px;
+}
+.daftar2 {
+  text-decoration: none;
+  position: absolute;
+  top: 20px;
+  left: 12px;
+  color: inherit;
+  display: inline-block;
+  width: 182px;
+  height: 33px;
+}
+.rectangle-parent8 {
+  position: absolute;
+  top: 25px;
+  left: 1137px;
+  width: 205px;
+  height: 79px;
+  text-align: center;
+}
+.beranda3,
+.kontak3,
+.pelayanan4,
+.tentang-kami3 {
+  text-decoration: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  color: inherit;
+}
+.kontak3,
+.pelayanan4,
+.tentang-kami3 {
+  left: 138px;
+}
+.kontak3,
+.tentang-kami3 {
+  left: 305px;
+}
+.kontak3 {
+  left: 510px;
+}
+.material-symbolssearch2 {
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 3px;
+  left: 621px;
+  width: 29px;
+  height: 30px;
+  overflow: hidden;
+}
+.beranda-parent1,
+.masuk3 {
+  position: absolute;
+  top: 132px;
+  left: 681px;
+  width: 650px;
+  height: 36px;
+}
+.masuk3 {
+  text-decoration: none;
+  top: 42px;
+  left: 964px;
+  color: inherit;
+  text-align: center;
+  display: inline-block;
+  width: 140px;
+  height: 44px;
+}
+.adv-1-icon,
+.rectangle-parent7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1366px;
+  height: 180px;
+}
+.adv-1-icon {
+  top: 230px;
+  left: 83px;
+  width: 1200px;
+  height: 674px;
+  object-fit: cover;
+}
+.menjaga-kesehatan-mata {
+  position: absolute;
+  top: 954px;
+  left: 252px;
+  font-size: var(--font-size-29xl);
+  font-weight: 800;
+  color: var(--color-steelblue-200);
+  text-align: center;
+  display: inline-block;
+  width: 861px;
+  height: 214px;
+}
+.penglihatan-adalah-salah {
+  margin: 0;
+}
+.penglihatan-adalah-salah-container {
+  position: absolute;
+  top: 1237px;
+  left: 63px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  display: inline-block;
+  width: 1254px;
+  height: 3795px;
+}
+.group-child13,
+.group-child14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslateblue-100);
+  width: 1366px;
+  height: 405px;
+}
+.group-child14 {
+  top: 305px;
+  background-color: var(--color-darkslateblue-200);
+  height: 100px;
+}
+.klinikita6,
+.masuk4 {
+  text-decoration: none;
+  position: absolute;
+  color: inherit;
+}
+.klinikita6 {
+  top: 150px;
+  left: 41px;
+  font-size: var(--font-size-29xl);
+  font-family: var(--font-paytone-one);
+  display: inline-block;
+  width: 278px;
+  height: 65px;
+}
+.masuk4 {
+  top: 0;
+  left: 628px;
+}
+.beranda-parent2 {
+  position: absolute;
+  top: 167px;
+  left: 627px;
+  width: 706px;
+  height: 36px;
+}
+.follow-kami-di2,
+.klinikita-2023-all2 {
+  position: absolute;
+  top: 336px;
+  left: 41px;
+  font-weight: 600;
+  display: inline-block;
+  width: 505px;
+  height: 38px;
+}
+.follow-kami-di2 {
+  top: 0;
+  left: 0;
+  width: 242px;
+  height: 31px;
+}
+.mdiinstagram-icon2,
+.rifacebook-fill-icon2,
+.tablerbrand-x-icon2 {
+  position: absolute;
+  top: 0;
+  left: 196px;
+  width: 31px;
+  height: 31px;
+  overflow: hidden;
+}
+.mdiinstagram-icon2,
+.rifacebook-fill-icon2 {
+  left: 233px;
+}
+.mdiinstagram-icon2 {
+  left: 270px;
+}
+.follow-kami-di-container {
+  position: absolute;
+  top: 339px;
+  left: 1032px;
+  width: 301px;
+  height: 31px;
+}
+.rectangle-parent9 {
+  position: absolute;
+  top: 5101px;
+  left: 0;
+  width: 1366px;
+  height: 405px;
+}
+.artikel-6 {
+  position: relative;
+  background-color: var(--color-lightblue-100);
+  width: 100%;
+  height: 5506px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
